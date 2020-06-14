@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "danilo",
+      "telefono": "333333",
+      "empresa": "mi empresa",
+      "correo": "demo@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "este es un cliente update",
+      "telefono": "12323123",
+      "empresa": "empresa",
+      "correo": "344134gmail-com",
+      "id": 2
+    }
+  ]
+}
